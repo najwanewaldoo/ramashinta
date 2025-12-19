@@ -27,7 +27,7 @@ body {
 
 .block{
   opacity: 0;
-  transition: 600ms ease;
+  transition: 750ms ease;
 }
 
 .block.show{
